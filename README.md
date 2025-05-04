@@ -186,7 +186,21 @@ All intellectual property rights in the Application and its content (excluding u
 ## 10. Governing Law and Jurisdiction
 These Terms are governed by and construed in accordance with the laws of Turkey, the European Union (including GDPR compliance), the United States (including CCPA compliance), and Canada (including PIPEDA compliance). Any disputes will be subject to the exclusive jurisdiction of the courts located in these regions.
 
-## 11. Contact Us
+## 11. User Safety and Reporting Mechanism
+
+We are committed to providing a safe environment for all users. Our app includes reporting features to flag inappropriate content or behavior. Reports are reviewed promptly, and actions are taken in line with our community guidelines.
+
+## 12. Child Safety
+
+Our service is not intended for users under the age of 13. We take child safety seriously and moderate content accordingly. If you believe someone is violating these rules, please contact us immediately.
+
+## 13. Contact and Support
+
+If you have any concerns or wish to report a user or content, please contact us at:  
+**Email:** 1983tarikyildirim@gmail.com 
+All reports will be handled confidentially and in accordance with our safety policy.
+
+## 14. Contact Us
 For questions or concerns regarding these Terms, please contact us at [1983tarikyildirim@gmail.com].
 
 # Polleidon'un Kullanım Şartları
@@ -251,6 +265,19 @@ Uygulama ve içeriğindeki tüm fikri mülkiyet hakları (kullanıcı içerikler
 ## 10. Geçerli Hukuk ve Yetki
 Bu Şartlar, Türkiye, Avrupa Birliği (GDPR uyumu dahil), Amerika Birleşik Devletleri (CCPA uyumu dahil) ve Kanada (PIPEDA uyumu dahil) yasalarına uygun olarak yönetilir ve yorumlanır. Herhangi bir uyuşmazlıkta bu bölgelerdeki mahkemeler yetkilidir.
 
-## 11. İletişim
+## 11. Kullanıcı Güvenliği ve Raporlama Mekanizması
+
+Tüm kullanıcılar için güvenli bir ortam sağlamaya kararlıyız. Uygulamamız uygunsuz içerik veya davranışları işaretlemek için raporlama özellikleri içerir. Raporlar derhal incelenir ve topluluk yönergelerimize uygun şekilde işlem yapılır.
+
+## 12. Çocuk Güvenliği
+
+Hizmetimiz 13 yaşın altındaki kullanıcılar için tasarlanmamıştır. Çocuk güvenliğini ciddiye alıyor ve içeriği buna göre düzenliyoruz. Birinin bu kuralları ihlal ettiğini düşünüyorsanız lütfen hemen bizimle iletişime geçin.
+
+## 13. İletişim ve Destek
+
+Herhangi bir endişeniz varsa veya bir kullanıcıyı veya içeriği bildirmek istiyorsanız lütfen bizimle şu adresten iletişime geçin: 
+**E-posta:** 1983tarikyildirim@gmail.com
+Tüm raporlar gizli bir şekilde ve güvenlik politikamıza uygun olarak ele alınacaktır.
+## 14. İletişim
 Bu Şartlarla ilgili sorularınız için bizimle [1983tarikyildirim@gmail.com] adresinden iletişime geçebilirsiniz.
 
