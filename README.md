@@ -163,7 +163,7 @@ Violation of these standards may result in content removal without prior notice,
 You retain ownership of the content you submit, post, or display on Polleidon. By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, host, store, reproduce, modify, create derivative works, and display such content for the purpose of operating, promoting, and improving our services.
 
 ## 5. Account Registration and Deletion
-Users must create an account to access certain features. You are responsible for maintaining the confidentiality of your account credentials. You may delete your account at any time through the Application settings.
+Users must create an account to access certain features. You are responsible for maintaining the confidentiality of your account credentials. When you want to delete your account, you can send an e-mail to 1983tarikyildirim@gmail.com.
 
 ## 6. No Fees
 Polleidon is currently free to use. We reserve the right to introduce paid features or services in the future, which will be clearly communicated.
@@ -228,7 +228,7 @@ Bu kuralları ihlal eden içerikler haber verilmeksizin kaldırılabilir; ilgili
 Polleidon'da paylaştığınız içeriğin sahibi sizsiniz. Ancak, bu içerikleri kullanabilmemiz için bize dünya çapında, ücretsiz, devredilebilir olmayan bir lisans vermiş olursunuz. Bu lisans, hizmetlerimizi işletmek, tanıtmak ve geliştirmek amacıyla içeriğinizi kullanmamızı sağlar.
 
 ## 5. Hesap Kaydı ve Silinmesi
-Bazı özelliklere erişebilmek için hesap oluşturmanız gerekir. Hesap bilgilerinizin gizliliğinden siz sorumlusunuz. Hesabınızı uygulama ayarlarından dilediğiniz zaman silebilirsiniz.
+Bazı özelliklere erişebilmek için hesap oluşturmanız gerekir. Hesap bilgilerinizin gizliliğinden siz sorumlusunuz. Hesabınızı silmek istediğinizde 1983tarikyildirim@gmail.com adresine e-posta gönderebilirsiniz.
 
 ## 6. Ücretsiz Hizmet
 Polleidon şu anda tamamen ücretsizdir. Gelecekte ücretli özellikler sunulması durumunda bu değişiklikler açık bir şekilde duyurulacaktır.
